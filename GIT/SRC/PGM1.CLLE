@@ -1,0 +1,10 @@
+             pgm        parm(&uno &due)
+             DCL        VAR(&A) TYPE(*CHAR) STG(*AUTO) LEN(10)
+             dcl        &uno *char 10
+             dcl        &due *char 20
+
+             chgvar     &due value(&una)
+
+
+             endpgm
+
