@@ -1,3 +1,11 @@
+
+
+
+                             NEW
+
+
+
+
 /* -------------------------------------------------------------------------*/
 /* ho modificato queste attivitæ                                            */
 /* -------------------------------------------------------------------------*/
@@ -6,11 +14,11 @@
 
              dcl        &due *char 20
              dcl        &due *char 20
-             dcl        &due *char 20              
-             dcl        &due *char 20              
-             dcl        &due *char 20            
              dcl        &due *char 20
-             
+             dcl        &due *char 20
+             dcl        &due *char 20
+             dcl        &due *char 20
+
              *****************************************************************
 
              chgvar     &due value(&una)
